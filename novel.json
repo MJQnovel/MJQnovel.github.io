@@ -1,25 +1,49 @@
 {
-    "nombrenovela" : "Martial Peak",
+    "nombrenovelaES" : "Martial Peak",
+    "nombrenovela" : "MartialPeak",
     "generonovela" : ["Action" , "Harem", "Martial Arts", "Mature", "Xuanhuan"],
     "resumen" : "El viaje al pico marcial es solitario, solitario y largo. Ante la adversidad, debes sobrevivir y permanecer inquebrantable. Solo entonces podrás abrirte paso y continuar tu viaje para convertirte en el más fuerte. High Heaven Pavilion pone a prueba a sus discípulos de las maneras más duras para prepararlos para este viaje. Un día, el humilde barrendero Yang Kai logró obtener un libro negro, colocándolo en el camino hacia la cima del mundo marcial.",
     "autor" : "Momo 莫默",
     "capitulos" : [
       {
         "capitulo" : 1,
-        "nombre" : "Capitulo 1: Barriendo el piso",
-        "texto": "asdfghjksdfghjkasdfghjksdfghjk",
+        "nombre" : "Capitulo 1",
+        "nombreL" : "Capitulo 1: Barriendo el piso",
+        "texto": "capitulo1.text",
         "visitas" : 0
 
       },
       {
         "capitulo" : 2,
-        "nombre" : ""
+        "nombre" : "Capitulo 2",
+        "nombreL" : "Capitulo 2: Atraviesa el muro sur y nunca mires atrás"
         
       },
       {
         "capitulo" : 3,
-        "nombre" : ""
+        "nombre" : "Capitulo 3"
+        
+      },
+      {
+        "capitulo" : 4,
+        "nombre" : "Capitulo 4"
+        
+      },
+      {
+        "capitulo" : 5,
+        "nombre" : "Capitulo 5"
+        
+      },
+      {
+        "capitulo" : 6,
+        "nombre" : "Capitulo 6"
+        
+      },
+      {
+        "capitulo" : 7,
+        "nombre" : "Capitulo 7"
         
       }
+    
     ]
   }
