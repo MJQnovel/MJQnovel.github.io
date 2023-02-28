@@ -1,0 +1,20 @@
+{
+"novelas_new" : [
+    { 
+        "nombre":"Full time mage",
+        "urlimg":"46756c6c2054696d65204d61676f/6d756c74696d65646961/img.png",
+        "urlnovela":"46756c6c2054696d65204d61676f/"
+    },{
+        "nombre":"Astral Pet Store",
+        "urlimg":"41737472616c205065742053746f7265/6d756c74696d65646961/img.png",
+        "urlnovela":"41737472616c205065742053746f7265/"
+    },{
+        "nombre":"Martial Peak",
+        "urlimg":"4d61727469616c205065616b/6d756c74696d65646961/img.png",
+        "urlnovela":"4d61727469616c205065616b/"
+    }
+    ],
+"novelas_populares":"dimelo tu xd"
+
+}
+
