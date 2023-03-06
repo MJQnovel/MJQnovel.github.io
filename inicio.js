@@ -9,7 +9,7 @@ async function ultimasnovelas() { //lectura json de la novela
     const myNewNovel = await response.json();
 
     cargaopciones(myNewNovel);
-    document.getElementById("demo").innerText = "comunicion funciona, variable = "+window.dataLayer || [];
+    //document.getElementById("demo").innerText = "comunicion funciona, variable = "+window.dataLayer || [];
 };
 
 function cargaopciones(myobj) { //imprime datos de la novela
